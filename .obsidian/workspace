@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "fb9c51cef4974ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8da5d4d32337a57b",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d848ce329ef65149",
+    "type": "split",
+    "children": [
+      {
+        "id": "31b7905ed59f281c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2710b27265325b46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b845b09851a011a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc0be500524e72ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "a83b4e661c6787d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62c602528e0c0b66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7eb55a2e90fc72da",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5cd865a1e0bc3b3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8da5d4d32337a57b",
+  "lastOpenFiles": [
+    "hello.md",
+    "world.md",
+    "english.md",
+    "math.md"
+  ]
+}
